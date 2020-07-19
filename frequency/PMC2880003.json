@@ -1,0 +1,44 @@
+{
+    "source": "PubMed",
+    "accessed": {
+        "date-parts": [
+            [
+                2020,
+                7,
+                19
+            ]
+        ]
+    },
+    "id": "pmid:20532192",
+    "title": "SUBTLEX-CH: Chinese word and character frequencies based on film subtitles",
+    "author": [
+        {
+            "family": "Cai",
+            "given": "Qing"
+        },
+        {
+            "family": "Brysbaert",
+            "given": "Marc"
+        }
+    ],
+    "container-title-short": "PLoS One",
+    "container-title": "PloS one",
+    "publisher": "Public Library of Science",
+    "ISSN": "1932-6203",
+    "issued": {
+        "date-parts": [
+            [
+                2010,
+                6,
+                2
+            ]
+        ]
+    },
+    "page": "e10729",
+    "volume": "5",
+    "issue": "6",
+    "PMID": "20532192",
+    "PMCID": "PMC2880003",
+    "DOI": "10.1371/journal.pone.0010729",
+    "type": "article-journal"
+}
